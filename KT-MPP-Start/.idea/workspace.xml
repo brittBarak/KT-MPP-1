@@ -1,0 +1,1282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9f5adc10-286b-4f06-84c8-d0e148dfeeb3" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/app/.gradle/" />
+    <ignored path="$PROJECT_DIR$/app/build/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="178" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_28_2" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Listi" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Listi" type="f1a62948:ProjectNode" />
+                <item name="Listi" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Listi" type="f1a62948:ProjectNode" />
+                <item name="Listi" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Listi" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Listi" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Listi" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="jvmMain" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Listi" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="jvmMain" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/JwtGenerator.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/ListiClient.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/login/LoginActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="333">
+              <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+              <folding>
+                <element signature="e#34#721#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/item_list/ListActivity.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="274">
+              <caret line="97" column="1" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+              <folding>
+                <element signature="e#38#679#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/item_list/ItemsAdapter.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+              <folding>
+                <element signature="e#38#539#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/NexmoApi.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/ListiServer.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="263">
+              <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+              <folding>
+                <element signature="e#25#477#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="layoutResourceFile" />
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>activecon</find>
+      <find>failure</find>
+      <find>client</find>
+      <find>HttpClient</find>
+      <find>preExecute</find>
+      <find>UserTokenResponse</find>
+      <find>jwt</find>
+      <find>click</find>
+      <find>additem</find>
+      <find>send</find>
+      <find>a</find>
+      <find>activc</find>
+      <find>activeconver</find>
+      <find>SampleJvmKt</find>
+      <find>sampl</find>
+      <find>login</find>
+      <find>post</find>
+      <find>post§</find>
+      <find>create</find>
+      <find>url</find>
+      <find>okhtt</find>
+      <find>okhttp</find>
+      <find>compile</find>
+      <find>java-</find>
+      <find>java-9</find>
+      <find>privatek</find>
+      <find>addNewItem</find>
+      <find>sendTextMessage</find>
+      <find>sendte</find>
+      <find>sende</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/src/test/java/sample/Sample.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/sample/Sample.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/MakeCall.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/shared/ApplicationDispatcher.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/sample/Sample.kt" />
+        <option value="$PROJECT_DIR$/androidMain/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase/GetList.kt" />
+        <option value="$PROJECT_DIR$/gradle.properties" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/ApplicationService.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/model/UserTokenBody.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/shared/Dispatcher.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/sample/SampleJvm.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/GetList.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/row_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_new_item.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/SendText.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase/SendText.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/shared/NativeConversation.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/AppParams.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/ListiApi.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/NexmoApi.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/ApiAuthManager.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/sendCustomText.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/sendCustomText.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/shared/DataModel.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/shared/PlatformConversation.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/shared/PlatformConversation.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/shared/EventUtils.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/shared/PlatformConversation.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/AddItem.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/AddItem.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase/AddItem.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase/GetAndJoinConversation.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/ListRepository.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/ListiApi.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/sample/ListiApi.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/sample/SampleJvm.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/GetAndJoinConversation.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/Login.kt" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/model/NextorkModels.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/login/LoginActivity.kt" />
+        <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/JwtGenerator.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/SendText.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/NexmoApi.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/GetAndJoinConversation.kt" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/ListiClient.kt" />
+        <option value="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/ListiServer.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/item_list/ItemsAdapter.kt" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/item_list/ListActivity.kt" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="720" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commonMain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commonMain" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commonMain" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com.britt.listi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="commonMain" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="com.britt.listi" type="462c0819:PsiDirectoryNode" />
+              <item name="usecase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmMain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmMain" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmMain" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="listi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="jvmMain" type="462c0819:PsiDirectoryNode" />
+              <item name="kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="listi" type="462c0819:PsiDirectoryNode" />
+              <item name="usecase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listi" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listi" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Listi-Mpp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="KT-MPP-Start" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="listi" type="462c0819:PsiDirectoryNode" />
+              <item name="usecase" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DEBUGGABLE_DEVICE" value="emulator-5556" />
+    <property name="DEBUGGABLE_PROCESS" value="com.britt.listi" />
+    <property name="DEBUGGER_ID" value="Auto" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_2_API_28" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-07-12T16:16:31.346Z" />
+    <property name="SHOW_ALL_PROCESSES" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="device.picker.selection" value="Pixel_2_API_28" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="project.structure.last.edited" value="Build Variants" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.4.1" />
+  </component>
+  <component name="PsdUISettings">
+    <option name="MODULE_TAB" value="Properties" />
+    <option name="LAST_EDITED_BUILD_TYPE" value="release" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="com.britt.listi.usecase" />
+      <recent name="com.britt.listi" />
+      <recent name="com.britt.listi.ui.item_list" />
+      <recent name="com.britt.listi.shared" />
+    </key>
+    <key name="CreateKotlinClassDialog.RecentsKey">
+      <recent name="com.britt.listi" />
+      <recent name="com.britt.listi.usecase" />
+    </key>
+    <key name="CopyKotlinDeclarationDialog.RECENTS_KEY">
+      <recent name="com.britt.listi.usecase" />
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.britt.listi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi" />
+      <recent name="$PROJECT_DIR$/app/src/commonMain/kotlin" />
+      <recent name="$PROJECT_DIR$/app/src" />
+      <recent name="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/britt/listi" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi" />
+      <recent name="$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/sample" />
+      <recent name="$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/login" />
+      <recent name="$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/item_list" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="./ gradlew run" />
+      <command value="./ gradlew" />
+      <command value="./gradlew run" />
+    </option>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Android App.KT-MPP-Start.app">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="KT-MPP-Start.app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="KT-MPP-Start.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MPP-ktor.app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MPP-ktor.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="MPP.app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MPP-ktor [run]" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="run" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="com.britt.listi.ListiServerKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="Listi.app.jvmMain" />
+      <option name="VM_PARAMETERS" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.britt.listi.ListiServerKt" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Android App.app" />
+      <item itemvalue="Android App.MPP-ktor.app" />
+      <item itemvalue="Android App.KT-MPP-Start.app" />
+      <item itemvalue="Gradle.MPP-ktor [run]" />
+      <item itemvalue="Kotlin.com.britt.listi.ListiServerKt" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.com.britt.listi.ListiServerKt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f5adc10-286b-4f06-84c8-d0e148dfeeb3" name="Default Changelist" comment="" />
+      <created>1561310564727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561310564727</updated>
+      <workItem from="1561310566808" duration="2302000" />
+      <workItem from="1561316397002" duration="4399000" />
+      <workItem from="1561335356689" duration="404000" />
+      <workItem from="1561339379080" duration="683000" />
+      <workItem from="1561608552628" duration="1497000" />
+      <workItem from="1561611214567" duration="724000" />
+      <workItem from="1561612204280" duration="17000" />
+      <workItem from="1561613204143" duration="2656000" />
+      <workItem from="1561638202997" duration="22000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="12704000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22532189" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Captures" order="7" side_tool="true" />
+      <window_info id="UI Designer" order="8" />
+      <window_info id="Resources Explorer" order="9" weight="0.32832617" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3210191" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.6731044" weight="0.2700637" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40254778" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.32689556" side_tool="true" weight="0.2700637" />
+      <window_info active="true" anchor="bottom" id="Build" order="10" sideWeight="0.49852508" visible="true" weight="0.3656051" />
+      <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.49852508" weight="0.47515923" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" weight="0.3299363" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32867134" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32890856" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.37020648" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32890856" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Preview" order="11" weight="0.32260373" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.6061947" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.28755364" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Captures" order="7" side_tool="true" />
+      <window_info id="UI Designer" order="8" />
+      <window_info id="Resources Explorer" order="9" weight="0.32832617" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32352942" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.6740413" visible="true" weight="0.46358544" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40336135" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Android Profiler" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3259587" side_tool="true" weight="0.46358544" />
+      <window_info anchor="bottom" id="Build" order="10" sideWeight="0.49852508" weight="0.31792718" />
+      <window_info anchor="bottom" id="Logcat" order="11" sideWeight="0.49852508" weight="0.47619048" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Messages" order="15" weight="0.32867134" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.32890856" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Device File Explorer" order="5" side_tool="true" />
+      <window_info anchor="right" id="Gradle" order="6" weight="0.37020648" />
+      <window_info anchor="right" id="Database" order="7" weight="0.32890856" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="10" />
+      <window_info anchor="right" id="Preview" order="11" weight="0.32260373" />
+      <window_info anchor="right" id="Coverage" order="12" side_tool="true" weight="0.6061947" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/NexmoApi.kt</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/NexmoApi.kt</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/utils/ListLiveData.kt</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/utils/ListLiveData.kt</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ListRepository.kt</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/Login.kt</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="kotlin-line">
+          <url>file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/Login.kt</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a94ccb2327fc24b941d878e42a9a64e0/jetified-client-sdk-0.3.0/jars/classes.jar!/com/nexmo/client/NexmoClient.class</url>
+          <line>166</line>
+          <properties />
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a94ccb2327fc24b941d878e42a9a64e0/jetified-client-sdk-0.3.0/jars/classes.jar!/com/nexmo/client/NexmoClient.class</url>
+          <line>170</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a94ccb2327fc24b941d878e42a9a64e0/jetified-client-sdk-0.3.0/jars/classes.jar!/com/nexmo/client/NexmoClient.class</url>
+          <line>175</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="app">
+        <watch expression="spnUsers.prompt?.toString()" language="kotlin" />
+        <watch expression="currentJwt" language="kotlin" />
+        <watch expression="client.head" language="kotlin" />
+      </configuration>
+      <configuration name="MPP-ktor.app">
+        <watch expression="&quot;$BASE_BACKEND_HOST$pathGetJwt/$username&quot;" language="kotlin" />
+      </configuration>
+      <configuration name="Remote">
+        <watch expression="currentJwt" language="kotlin" />
+        <watch expression="Json.nonstrict.parse(MyCustomEvent.serializer(), event.text).type" language="kotlin" />
+        <watch expression="it.id" language="kotlin" />
+        <watch expression="items[itemPosition]" language="kotlin" />
+        <watch expression="it.name" language="kotlin" />
+        <watch expression="items[itemPosition].name" language="kotlin" />
+        <watch expression="itemView.etMessage.text.toString()" language="kotlin" />
+        <watch expression="uiModel.items[position]" language="kotlin" />
+        <watch expression="itemsRepository.getItemPosition(it)" language="kotlin" />
+        <watch expression="itemsRepository.getItemPosition(&quot;item@&quot;)" language="kotlin" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Listi_Mpp$sample_SampleJvmKt.ic" NAME="sample.SampleJvmKt Coverage Results" MODIFIED="1562735090966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>&quot;$BASE_BACKEND_HOST$pathGetJwt/$username&quot;</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>itemsRepository.getItemPosition(&quot;item@&quot;)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>itemsRepository.getItemPosition(it)</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>uiModel.items[position]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>itemView.etMessage.text.toString()</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>items[itemPosition].name</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it.name</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>items[itemPosition]</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>it.id</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Json.nonstrict.parse(MyCustomEvent.serializer(), event.text).type</expression-string>
+        <language-id>kotlin</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/sample/Sample.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/row_item.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-utils-jvm/1.2.0/5ae4f07df0a70b1511691a3bfb23b8effc29a19/ktor-utils-jvm-1.2.0-sources.jar!/commonMain/io/ktor/util/pipeline/PipelineContext.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="10" selection-start-line="15" selection-start-column="10" selection-end-line="15" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_new_item.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_list.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase/SendText.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/SendText.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/MakeCall.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a94ccb2327fc24b941d878e42a9a64e0/jetified-client-sdk-0.3.0/jars/classes.jar!/com/nexmo/client/NexmoClient.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="249" column="9" lean-forward="true" selection-start-line="249" selection-start-column="9" selection-end-line="249" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/sample/Sample.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/AppParams.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.40/682cd7821872d1a3c1e8a3e6bdaabd17f2b71004/kotlin-stdlib-common-1.3.40-sources.jar!/kotlin/util/Standard.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="52" column="27" selection-start-line="52" selection-start-column="27" selection-end-line="52" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/GetList.kt" />
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/java/lang/Void.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/sendCustomText.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/sendCustomText.kt" />
+    <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a94ccb2327fc24b941d878e42a9a64e0/jetified-client-sdk-0.3.0/jars/classes.jar!/com/nexmo/client/NexmoConversation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="625" column="18" selection-start-line="625" selection-start-column="18" selection-end-line="625" selection-end-column="18" />
+          <folding>
+            <element signature="e#30575#30576#0" expanded="true" />
+            <element signature="e#30617#30618#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase/AddItem.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/GetAndJoinConversation.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ListRepository.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/shared/PlatformConversation.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/shared/PlatformConversation.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/shared/EventUtils.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/AddItem.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/shared/DataModel.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/model/NextorkModels.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/Login.kt" />
+    <entry file="file://$USER_HOME$/Library/Android/sdk/sources/android-28/android/view/View.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="6597" selection-start-line="6597" selection-end-line="6597" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core-jvm/1.2.0/943cfdf291c4d0f0db88a2c83cd13c9dc2c876d4/ktor-client-core-jvm-1.2.0-sources.jar!/commonMain/io/ktor/client/request/builders.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="251" selection-start-line="251" selection-end-line="251" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core/1.2.1/75e0ac676a7c7ef6239179b415d86ed002a7cc2c/kotlinx-coroutines-core-1.2.1-sources.jar!/commonMain/Dispatched.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="239" selection-start-line="239" selection-end-line="239" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/com/sun/corba/se/impl/activation/ListServers.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/jre/jdk/Contents/Home/jre/lib/rt.jar!/sun/nio/ch/ServerSocketChannelImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1965">
+          <caret line="151" selection-start-line="151" selection-end-line="151" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-client-core/1.2.0/9c3440dc7f2e66fae713fa3f7597c1ee1b87b58/ktor-client-core-1.2.0-sources.jar!/commonMain/io/ktor/client/features/DefaultRequest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-server-core/1.2.0/af219e540947771a5143499054eb073a73a91d2c/ktor-server-core-1.2.0-sources.jar!/jvmMain/io/ktor/response/ApplicationResponseFunctions.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="52" column="28" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/AddItem.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/usecase/SendText.kt" />
+    <entry file="file://$PROJECT_DIR$/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/usecase/GetAndJoinConversation.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/shared/PlatformConversation.kt" />
+    <entry file="file://$PROJECT_DIR$/gradle.properties" />
+    <entry file="file://$PROJECT_DIR$/app/build.gradle" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/usecase/GetAndJoinConversation.kt" />
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/JwtGenerator.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/commonMain/kotlin/com.britt.listi/ListiClient.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/ListiServer.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="e#25#477#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/jvmMain/kotlin/com/britt/listi/NexmoApi.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="26" column="8" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/item_list/ItemsAdapter.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="49" column="20" selection-start-line="49" selection-start-column="20" selection-end-line="49" selection-end-column="20" />
+          <folding>
+            <element signature="e#38#539#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/login/LoginActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="46" column="18" lean-forward="true" selection-start-line="46" selection-start-column="18" selection-end-line="46" selection-end-column="18" />
+          <folding>
+            <element signature="e#34#721#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/britt/listi/ui/item_list/ListActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="274">
+          <caret line="97" column="1" lean-forward="true" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="1" />
+          <folding>
+            <element signature="e#38#679#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="gradleExecuteTaskHistory">
+    <option value="" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Kotlin SDK</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: android.arch.core:common:1.1.1@jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android"
+       xmlns:tools="http://schemas.android.com/tools" tools:showIn="@layout/activity_list">
+
+    <androidx.cardview.widget.CardView
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.5"
+            app:layout_constraintVertical_bias="0.5"
+            android:layout_margin="48dp"
+            android:padding="16dp"
+            android:elevation="3dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content">
+            <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/tilItemName"
+                    android:padding="16dp"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+
+                    android:hint="Item name"
+                    tools:layout_editor_absoluteX="16dp" android:layout_marginBottom="26dp"
+                    app:layout_constraintBottom_toTopOf="@+id/btnAdd">
+
+                <com.google.android.material.textfield.TextInputEditText
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"/>
+            </com.google.android.material.textfield.TextInputLayout>
+
+<!--            <Spinner-->
+<!--                    android:layout_width="match_parent"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:id="@+id/spnUsers"-->
+<!--                    android:padding="16dp"-->
+<!--                    app:layout_constraintEnd_toEndOf="parent"-->
+<!--                    app:layout_constraintStart_toStartOf="parent"-->
+<!--                    tools:layout_editor_absoluteX="16dp" app:layout_constraintTop_toBottomOf="@id/tilItemName"-->
+<!--                    app:layout_constraintBottom_toTopOf=" @+id/btnAdd"/>-->
+            <Button
+                    android:text="Add"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/btnAdd"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/tilItemName"
+                    style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Widget.Button.Colored"
+                    app:layout_constraintHorizontal_bias="1.0"/>
+
+            <androidx.constraintlayout.widget.Group
+                    android:layout_width="match_parent"
+
+                    android:layout_height="wrap_content"
+                    android:id="@+id/groupNewItem"
+                    android:visibility="gone"
+                    tools:visibility="visible"
+                    app:constraint_referenced_ids="btnAdd,tilItemName"
+
+            />
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</merge>

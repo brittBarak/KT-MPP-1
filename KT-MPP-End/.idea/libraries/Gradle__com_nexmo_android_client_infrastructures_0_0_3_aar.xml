@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.nexmo.android:client-infrastructures:0.0.3@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96c8b5eef2d0281704328c22252b2fa1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/96c8b5eef2d0281704328c22252b2fa1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
